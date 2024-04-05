@@ -75,6 +75,7 @@
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
             <!-- CAMBIO VERSION-->
+            <!-- 1.18.16 a 1.18.20-->
             <version>1.18.20</version>
             <optional>true</optional>
         </dependency>
@@ -124,6 +125,7 @@
                             <groupId>org.projectlombok</groupId>
                             <artifactId>lombok</artifactId>
                             <!-- CAMBIO VERSION-->
+                            <!-- 1.18.16 a 1.18.20-->
                             <version>1.18.20</version>
                         </path>
                         <path>
